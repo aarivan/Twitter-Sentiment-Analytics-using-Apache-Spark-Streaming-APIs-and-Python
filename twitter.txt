@@ -1,0 +1,2 @@
+[DEFAULT]
+consumerKey = consumerSecret = accessToken = accessTokenSecret = 
